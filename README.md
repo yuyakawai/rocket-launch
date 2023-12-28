@@ -1,2 +1,9 @@
 # rocket-launch
-Created with CodeSandbox
+
+## 概要
+
+自作のロケット発射ゲームです。
+
+## ライセンス
+
+このプロジェクトは MIT ライセンスの下で公開されています。
